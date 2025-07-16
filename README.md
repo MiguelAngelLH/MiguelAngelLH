@@ -40,18 +40,6 @@ Soy un desarrollador apasionado por crear soluciones innovadoras con tecnología
 | 🔹 **Descripción:** App web para gestionar acceso estudiantil en instituciones.  
 
 ---
-
-## 📚 **Educación**  
-- **TSU. en Tecnología de la Información**  
-  📍 *Universidad Tecnológica de Tulancingo*  
-  🎓 *Especialización: Desarrollo de Software Multiplataforma*  
-
-- **Preparatoria en Informática**  
-  📍 *Prepa Federal "Lic. Benito Juárez"*  
-
-
-
-
 <div align="center">  
 <img src="https://komarev.com/ghpvc/?username=tuusuario&label=Profile%20Views&color=blue&style=flat" alt="Visitas">  
 </div>  
