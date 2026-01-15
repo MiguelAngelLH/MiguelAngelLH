@@ -5,7 +5,7 @@
 ### 🚀 **Desarrollador Full Stack & IoT** | **Ingeniero en Desarrollo y Gestión de Software**
 
 [![LinkedIn](https://www.linkedin.com/in/miguelangel-lopez-551a163a5/)](tu-linkedin)
-[![GitHub](https://github.com/MiguelAngelLH/)](tu-github)
+[![GitHub](https://github.com/MiguelAngelLH)](tu-github)
 [![Email](miguelhdez0903@gmail.com)](mailto:tu-email)
 
 </div>
